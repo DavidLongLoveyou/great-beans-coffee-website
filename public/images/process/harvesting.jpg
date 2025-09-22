@@ -1,0 +1,178 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E0F6FF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="groundGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8FBC8F;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#654321;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Sky background -->
+  <rect width="800" height="350" fill="url(#skyGradient)"/>
+  
+  <!-- Ground -->
+  <rect y="350" width="800" height="250" fill="url(#groundGradient)"/>
+  
+  <!-- Coffee trees with ripe cherries -->
+  <g transform="translate(100,300)">
+    <rect x="-8" y="0" width="16" height="80" fill="#8B4513"/>
+    <ellipse cx="0" cy="-20" rx="40" ry="30" fill="#228B22"/>
+    <!-- Ripe cherries -->
+    <circle cx="-25" cy="-15" r="5" fill="#DC143C"/>
+    <circle cx="-15" cy="-25" r="5" fill="#DC143C"/>
+    <circle cx="-30" cy="-30" r="5" fill="#DC143C"/>
+    <circle cx="-10" cy="-10" r="5" fill="#DC143C"/>
+    <circle cx="15" cy="-20" r="5" fill="#DC143C"/>
+    <circle cx="25" cy="-30" r="5" fill="#DC143C"/>
+    <circle cx="30" cy="-15" r="5" fill="#DC143C"/>
+    <circle cx="20" cy="-5" r="5" fill="#DC143C"/>
+    <circle cx="-5" cy="-35" r="5" fill="#DC143C"/>
+    <circle cx="10" cy="-35" r="5" fill="#DC143C"/>
+  </g>
+  
+  <g transform="translate(300,320)">
+    <rect x="-6" y="0" width="12" height="60" fill="#8B4513"/>
+    <ellipse cx="0" cy="-15" rx="35" ry="25" fill="#228B22"/>
+    <!-- Ripe cherries -->
+    <circle cx="-20" cy="-10" r="4" fill="#DC143C"/>
+    <circle cx="-10" cy="-20" r="4" fill="#DC143C"/>
+    <circle cx="-25" cy="-25" r="4" fill="#DC143C"/>
+    <circle cx="-5" cy="-5" r="4" fill="#DC143C"/>
+    <circle cx="12" cy="-15" r="4" fill="#DC143C"/>
+    <circle cx="22" cy="-25" r="4" fill="#DC143C"/>
+    <circle cx="25" cy="-10" r="4" fill="#DC143C"/>
+    <circle cx="15" cy="0" r="4" fill="#DC143C"/>
+  </g>
+  
+  <g transform="translate(600,310)">
+    <rect x="-7" y="0" width="14" height="70" fill="#8B4513"/>
+    <ellipse cx="0" cy="-18" rx="38" ry="28" fill="#228B22"/>
+    <!-- Ripe cherries -->
+    <circle cx="-22" cy="-12" r="5" fill="#DC143C"/>
+    <circle cx="-12" cy="-22" r="5" fill="#DC143C"/>
+    <circle cx="-28" cy="-28" r="5" fill="#DC143C"/>
+    <circle cx="-8" cy="-8" r="5" fill="#DC143C"/>
+    <circle cx="14" cy="-18" r="5" fill="#DC143C"/>
+    <circle cx="24" cy="-28" r="5" fill="#DC143C"/>
+    <circle cx="28" cy="-12" r="5" fill="#DC143C"/>
+    <circle cx="18" cy="-2" r="5" fill="#DC143C"/>
+    <circle cx="-2" cy="-32" r="5" fill="#DC143C"/>
+  </g>
+  
+  <!-- Harvester 1 with basket -->
+  <g transform="translate(150,350)">
+    <circle cx="0" cy="-50" r="15" fill="#DEB887"/>
+    <rect x="-12" y="-35" width="24" height="35" fill="#FF69B4"/>
+    <rect x="-10" y="0" width="20" height="30" fill="#000080"/>
+    <rect x="-5" y="30" width="10" height="25" fill="#DEB887"/>
+    <rect x="5" y="30" width="10" height="25" fill="#DEB887"/>
+    <rect x="-5" y="55" width="10" height="12" fill="#654321"/>
+    <rect x="5" y="55" width="10" height="12" fill="#654321"/>
+    <!-- Hat -->
+    <ellipse cx="0" cy="-58" rx="20" ry="7" fill="#8B4513"/>
+    <!-- Basket on back -->
+    <ellipse cx="25" cy="-15" rx="12" ry="18" fill="#D2691E" stroke="#8B4513" stroke-width="2"/>
+    <!-- Cherries in basket -->
+    <circle cx="20" cy="-20" r="3" fill="#DC143C"/>
+    <circle cx="28" cy="-18" r="3" fill="#DC143C"/>
+    <circle cx="24" cy="-12" r="3" fill="#DC143C"/>
+    <circle cx="30" cy="-15" r="3" fill="#DC143C"/>
+    <!-- Arm reaching for cherries -->
+    <rect x="-25" y="-25" width="15" height="6" fill="#DEB887"/>
+    <circle cx="-30" cy="-22" r="4" fill="#DEB887"/>
+    <!-- Cherries being picked -->
+    <circle cx="-35" cy="-25" r="3" fill="#DC143C"/>
+    <circle cx="-32" cy="-20" r="3" fill="#DC143C"/>
+  </g>
+  
+  <!-- Harvester 2 with ladder -->
+  <g transform="translate(350,280)">
+    <circle cx="0" cy="-50" r="15" fill="#DEB887"/>
+    <rect x="-12" y="-35" width="24" height="35" fill="#4169E1"/>
+    <rect x="-10" y="0" width="20" height="30" fill="#8B4513"/>
+    <rect x="-5" y="30" width="10" height="25" fill="#DEB887"/>
+    <rect x="5" y="30" width="10" height="25" fill="#DEB887"/>
+    <rect x="-5" y="55" width="10" height="12" fill="#654321"/>
+    <rect x="5" y="55" width="10" height="12" fill="#654321"/>
+    <!-- Hat -->
+    <ellipse cx="0" cy="-58" rx="20" ry="7" fill="#8B4513"/>
+    <!-- Ladder -->
+    <rect x="-35" y="-10" width="6" height="80" fill="#8B4513"/>
+    <rect x="-45" y="-10" width="6" height="80" fill="#8B4513"/>
+    <rect x="-45" y="0" width="16" height="3" fill="#8B4513"/>
+    <rect x="-45" y="15" width="16" height="3" fill="#8B4513"/>
+    <rect x="-45" y="30" width="16" height="3" fill="#8B4513"/>
+    <rect x="-45" y="45" width="16" height="3" fill="#8B4513"/>
+    <rect x="-45" y="60" width="16" height="3" fill="#8B4513"/>
+    <!-- Basket -->
+    <ellipse cx="20" cy="-10" rx="10" ry="15" fill="#D2691E" stroke="#8B4513" stroke-width="2"/>
+    <!-- Cherries in basket -->
+    <circle cx="15" cy="-15" r="2" fill="#DC143C"/>
+    <circle cx="23" cy="-12" r="2" fill="#DC143C"/>
+    <circle cx="18" cy="-8" r="2" fill="#DC143C"/>
+    <circle cx="25" cy="-10" r="2" fill="#DC143C"/>
+  </g>
+  
+  <!-- Harvester 3 on ground -->
+  <g transform="translate(550,380)">
+    <circle cx="0" cy="-40" r="12" fill="#DEB887"/>
+    <rect x="-10" y="-28" width="20" height="28" fill="#228B22"/>
+    <rect x="-8" y="0" width="16" height="25" fill="#000080"/>
+    <rect x="-4" y="25" width="8" height="20" fill="#DEB887"/>
+    <rect x="4" y="25" width="8" height="20" fill="#DEB887"/>
+    <rect x="-4" y="45" width="8" height="10" fill="#654321"/>
+    <rect x="4" y="45" width="8" height="10" fill="#654321"/>
+    <!-- Hat -->
+    <ellipse cx="0" cy="-47" rx="15" ry="5" fill="#8B4513"/>
+    <!-- Large collection basket -->
+    <ellipse cx="25" cy="10" rx="15" ry="20" fill="#D2691E" stroke="#8B4513" stroke-width="3"/>
+    <!-- Many cherries in large basket -->
+    <circle cx="15" cy="0" r="3" fill="#DC143C"/>
+    <circle cx="25" cy="-5" r="3" fill="#DC143C"/>
+    <circle cx="35" cy="-2" r="3" fill="#DC143C"/>
+    <circle cx="20" cy="5" r="3" fill="#DC143C"/>
+    <circle cx="30" cy="8" r="3" fill="#DC143C"/>
+    <circle cx="18" cy="12" r="3" fill="#DC143C"/>
+    <circle cx="32" cy="15" r="3" fill="#DC143C"/>
+    <circle cx="22" cy="18" r="3" fill="#DC143C"/>
+    <circle cx="28" cy="20" r="3" fill="#DC143C"/>
+  </g>
+  
+  <!-- Scattered cherries on ground -->
+  <circle cx="200" cy="420" r="3" fill="#DC143C"/>
+  <circle cx="250" cy="430" r="3" fill="#DC143C"/>
+  <circle cx="180" cy="440" r="3" fill="#DC143C"/>
+  <circle cx="400" cy="425" r="3" fill="#DC143C"/>
+  <circle cx="450" cy="435" r="3" fill="#DC143C"/>
+  <circle cx="500" cy="440" r="3" fill="#DC143C"/>
+  
+  <!-- Sun -->
+  <circle cx="700" cy="80" r="45" fill="#FFD700" opacity="0.9"/>
+  <g transform="translate(700,80)">
+    <rect x="-2" y="-65" width="4" height="20" fill="#FFD700"/>
+    <rect x="-2" y="45" width="4" height="20" fill="#FFD700"/>
+    <rect x="-65" y="-2" width="20" height="4" fill="#FFD700"/>
+    <rect x="45" y="-2" width="20" height="4" fill="#FFD700"/>
+    <rect x="-48" y="-48" width="4" height="15" fill="#FFD700" transform="rotate(45)"/>
+    <rect x="-48" y="33" width="4" height="15" fill="#FFD700" transform="rotate(-45)"/>
+    <rect x="33" y="-48" width="4" height="15" fill="#FFD700" transform="rotate(-45)"/>
+    <rect x="33" y="33" width="4" height="15" fill="#FFD700" transform="rotate(45)"/>
+  </g>
+  
+  <!-- Birds in sky -->
+  <g transform="translate(500,150)">
+    <path d="M0,0 Q-5,-3 -10,0 Q-5,3 0,0" fill="#2F4F4F"/>
+    <path d="M0,0 Q5,-3 10,0 Q5,3 0,0" fill="#2F4F4F"/>
+  </g>
+  
+  <g transform="translate(450,120)">
+    <path d="M0,0 Q-4,-2 -8,0 Q-4,2 0,0" fill="#2F4F4F"/>
+    <path d="M0,0 Q4,-2 8,0 Q4,2 0,0" fill="#2F4F4F"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2F4F4F">Coffee Harvesting</text>
+</svg>

@@ -1,0 +1,78 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E0F6FF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="earthGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8FBC8F;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#228B22;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Sky background -->
+  <rect width="800" height="400" fill="url(#skyGradient)"/>
+  
+  <!-- Ground -->
+  <rect y="400" width="800" height="200" fill="url(#earthGradient)"/>
+  
+  <!-- Sun -->
+  <circle cx="150" cy="100" r="60" fill="#FFD700" opacity="0.9"/>
+  
+  <!-- Wind turbines -->
+  <g transform="translate(200,250)">
+    <rect x="-5" y="0" width="10" height="150" fill="#FFFFFF"/>
+    <g transform="translate(0,-10)">
+      <rect x="-2" y="-80" width="4" height="80" fill="#FFFFFF" transform="rotate(45)"/>
+      <rect x="-2" y="-80" width="4" height="80" fill="#FFFFFF" transform="rotate(165)"/>
+      <rect x="-2" y="-80" width="4" height="80" fill="#FFFFFF" transform="rotate(285)"/>
+    </g>
+  </g>
+  
+  <g transform="translate(350,280)">
+    <rect x="-4" y="0" width="8" height="120" fill="#FFFFFF"/>
+    <g transform="translate(0,-8)">
+      <rect x="-1.5" y="-60" width="3" height="60" fill="#FFFFFF" transform="rotate(30)"/>
+      <rect x="-1.5" y="-60" width="3" height="60" fill="#FFFFFF" transform="rotate(150)"/>
+      <rect x="-1.5" y="-60" width="3" height="60" fill="#FFFFFF" transform="rotate(270)"/>
+    </g>
+  </g>
+  
+  <g transform="translate(500,260)">
+    <rect x="-4" y="0" width="8" height="140" fill="#FFFFFF"/>
+    <g transform="translate(0,-8)">
+      <rect x="-1.5" y="-70" width="3" height="70" fill="#FFFFFF" transform="rotate(75)"/>
+      <rect x="-1.5" y="-70" width="3" height="70" fill="#FFFFFF" transform="rotate(195)"/>
+      <rect x="-1.5" y="-70" width="3" height="70" fill="#FFFFFF" transform="rotate(315)"/>
+    </g>
+  </g>
+  
+  <!-- Trees -->
+  <g transform="translate(600,350)">
+    <rect x="-8" y="0" width="16" height="50" fill="#8B4513"/>
+    <circle cx="0" cy="-20" r="35" fill="#228B22"/>
+  </g>
+  
+  <g transform="translate(700,370)">
+    <rect x="-6" y="0" width="12" height="30" fill="#8B4513"/>
+    <circle cx="0" cy="-15" r="25" fill="#32CD32"/>
+  </g>
+  
+  <!-- Clouds -->
+  <g transform="translate(400,80)">
+    <circle cx="0" cy="0" r="20" fill="#FFFFFF" opacity="0.8"/>
+    <circle cx="25" cy="0" r="25" fill="#FFFFFF" opacity="0.8"/>
+    <circle cx="50" cy="0" r="20" fill="#FFFFFF" opacity="0.8"/>
+    <circle cx="12" cy="-15" r="18" fill="#FFFFFF" opacity="0.8"/>
+    <circle cx="35" cy="-15" r="22" fill="#FFFFFF" opacity="0.8"/>
+  </g>
+  
+  <!-- Earth symbol -->
+  <g transform="translate(650,120)">
+    <circle cx="0" cy="0" r="40" fill="#4169E1" opacity="0.7"/>
+    <path d="M-30,-10 Q-20,-20 -10,-15 Q0,-25 10,-20 Q20,-15 30,-10 Q25,0 20,10 Q10,15 0,12 Q-10,18 -20,10 Q-30,5 -30,-10" fill="#228B22" opacity="0.8"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="400" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2F4F4F">Climate Action</text>
+</svg>

@@ -1,0 +1,299 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "clear": "Clear",
+    "select": "Select",
+    "all": "All",
+    "none": "None",
+    "required": "Required",
+    "optional": "Optional"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "process": "Our Process",
+    "sustainability": "Sustainability",
+    "insights": "Insights",
+    "contact": "Contact",
+    "quote": "Request Quote"
+  },
+  "hero": {
+    "title": "Premium Vietnamese Coffee for Global Markets",
+    "subtitle": "Connecting coffee roasters and importers worldwide with Vietnam's finest Arabica and Robusta beans",
+    "cta": "Request a Quote",
+    "learnMore": "Learn More"
+  },
+  "company": {
+    "name": "The Great Beans",
+    "tagline": "Excellence in Every Bean",
+    "description": "Established in 2018, The Great Beans specializes in producing and exporting premium green coffee beans and roasted Robusta and Arabica coffee from Vietnam's renowned growing regions.",
+    "mission": "To deliver the world's finest Vietnamese coffee while championing sustainability, community upliftment, and environmental stewardship.",
+    "vision": "To be the leading Vietnamese coffee exporter, recognized globally for quality, sustainability, and ethical business practices."
+  },
+  "stats": {
+    "yearsInBusiness": "Years in Business",
+    "countriesExported": "Countries Exported",
+    "totalCustomers": "Satisfied Customers",
+    "dailyProduction": "Daily Production (Tons)",
+    "certifications": "Certifications"
+  },
+  "products": {
+    "badge": "Our Products",
+    "title": "Premium Coffee Collection",
+    "titleHighlight": "Coffee Collection",
+    "subtitle": "Discover our carefully curated selection of premium Vietnamese coffee beans",
+    "description": "Explore our comprehensive range of premium Vietnamese coffee beans, carefully sourced from the finest growing regions and processed to meet international quality standards.",
+    "viewAll": "View All Products",
+    "viewDetails": "View Details",
+    "specifications": "Specifications",
+    "requestQuote": "Request Quote for this Product",
+    "downloadSpec": "Download Specification Sheet",
+    "origin": "Origin",
+    "processing": "Processing Method",
+    "grade": "Grade",
+    "aroma": "Aroma",
+    "flavor": "Flavor Profile",
+    "certifications": "Certifications",
+    "minimumOrder": "Minimum Order",
+    "harvestSeason": "Harvest Season",
+    "moistureContent": "Moisture Content",
+    "filters": {
+      "all": "All Products",
+      "featured": "Featured",
+      "premium": "Premium",
+      "organic": "Organic"
+    },
+    "defectRate": "Defect Rate"
+  },
+  "testimonials": {
+    "badge": "Customer Stories",
+    "title": "Trusted by Coffee",
+    "titleHighlight": "Professionals",
+    "subtitle": "Hear from our valued partners around the world who have experienced the exceptional quality and service that defines The Great Beans.",
+    "stats": {
+      "customers": "Happy Customers",
+      "countries": "Countries Served",
+      "rating": "Average Rating",
+      "satisfaction": "Satisfaction Rate"
+    }
+  },
+  "cta": {
+    "badge": "Ready to Start?",
+    "title": "Partner with",
+    "titleHighlight": "The Great Beans",
+    "subtitle": "Join hundreds of satisfied customers worldwide who trust us for premium Vietnamese coffee. Let's discuss how we can meet your specific requirements.",
+    "primaryButton": "Get Quote Now",
+    "secondaryButton": "Download Catalog",
+    "contacts": {
+      "phone": {
+        "title": "Call Us",
+        "description": "Speak directly with our export team"
+      },
+      "email": {
+        "title": "Email Us",
+        "description": "Get detailed information and quotes"
+      },
+      "whatsapp": {
+        "title": "WhatsApp",
+        "description": "Quick responses for urgent inquiries"
+      }
+    },
+    "trust": {
+      "rating": "Customer Rating",
+      "certified": "ISO Certified Quality",
+      "countries": "Countries Served"
+    }
+  },
+  "process": {
+    "title": "From Farm to Port",
+    "subtitle": "Our meticulous process ensures the highest quality coffee beans",
+    "cultivation": {
+      "title": "Cultivation",
+      "description": "Sustainable farming practices in Vietnam's ideal coffee-growing regions"
+    },
+    "harvesting": {
+      "title": "Harvesting",
+      "description": "Hand-picked at peak ripeness for optimal flavor development"
+    },
+    "processing": {
+      "title": "Processing",
+      "description": "Advanced wet and dry processing methods to enhance bean quality"
+    },
+    "grading": {
+      "title": "Grading",
+      "description": "Rigorous quality control and grading according to international standards"
+    },
+    "packaging": {
+      "title": "Packaging",
+      "description": "Professional packaging to preserve freshness during transport"
+    },
+    "export": {
+      "title": "Export",
+      "description": "Efficient logistics ensuring timely delivery to global markets"
+    }
+  },
+  "sustainability": {
+    "title": "Sustainable Coffee Excellence",
+    "subtitle": "Committed to environmental stewardship and community development",
+    "organic": {
+      "title": "Organic Excellence",
+      "description": "Pure, chemical-free Vietnamese coffee, cultivated for biodiversity and authentic taste."
+    },
+    "quality": {
+      "title": "Quality Processing",
+      "description": "Advanced technology and rigorous standards ensure consistently exceptional Vietnamese coffee."
+    },
+    "practices": {
+      "title": "Sustainable Practices",
+      "description": "Committed to protecting and conserving natural environments through responsible actions."
+    },
+    "community": {
+      "title": "Community Impact",
+      "description": "Supporting thriving communities through organic farming that benefits farmers, families, and the environment."
+    }
+  },
+  "quote": {
+    "title": "Request a Quote",
+    "subtitle": "Get competitive pricing for premium Vietnamese coffee beans",
+    "form": {
+      "companyName": "Company Name",
+      "contactPerson": "Contact Person",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "country": "Country",
+      "interestedProducts": "Interested Products",
+      "quantity": "Quantity (Tons)",
+      "packaging": "Packaging Requirements",
+      "delivery": "Delivery Location",
+      "deliveryDate": "Preferred Delivery Date",
+      "message": "Additional Message",
+      "submit": "Submit Quote Request",
+      "success": "Thank you! We'll contact you within 24 hours.",
+      "error": "Please check your information and try again."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our coffee export specialists",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Business Hours",
+    "hoursValue": "Monday - Friday: 8:00 AM - 6:00 PM (GMT+7)"
+  },
+  "insights": {
+    "title": "Coffee Insights",
+    "subtitle": "Industry news, market trends, and coffee expertise",
+    "readMore": "Read More",
+    "publishedOn": "Published on",
+    "readingTime": "min read",
+    "relatedPosts": "Related Articles"
+  },
+  "footer": {
+    "description": "Premium Vietnamese coffee exporter connecting global markets with sustainable, high-quality beans.",
+    "quickLinks": "Quick Links",
+    "products": "Products",
+    "company": "Company",
+    "support": "Support",
+    "followUs": "Follow Us",
+    "copyright": "© 2024 The Great Beans. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "Learn how The Great Beans collects, uses, and protects your personal information when you visit our website or use our services."
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "description": "Read our terms and conditions that govern your use of The Great Beans website and services."
+  },
+  "features": {
+    "badge": "Why Choose Us",
+    "title": "Excellence in Every Bean",
+    "description": "Discover what makes The Great Beans the preferred choice for coffee roasters and importers worldwide. Our commitment to quality, sustainability, and innovation sets us apart.",
+    "certification": "Certified Organic & Fair Trade",
+    "premium_quality": {
+      "title": "Premium Quality",
+      "description": "Hand-selected beans from Vietnam's finest coffee regions, ensuring exceptional flavor profiles and consistent quality in every batch."
+    },
+    "sustainable": {
+      "title": "Sustainable Farming",
+      "description": "Environmentally responsible practices that protect biodiversity while supporting local farming communities and preserving natural ecosystems."
+    },
+    "award_winning": {
+      "title": "Award Winning",
+      "description": "Internationally recognized for excellence in coffee quality, processing innovation, and sustainable business practices across global markets."
+    },
+    "global_sourcing": {
+      "title": "Global Reach",
+      "description": "Extensive distribution network spanning 25+ countries, ensuring reliable supply chains and timely delivery to international partners."
+    },
+    "ethically_sourced": {
+      "title": "Ethically Sourced",
+      "description": "Direct partnerships with local farmers ensuring fair compensation, community development, and transparent supply chain practices."
+    },
+    "fast_delivery": {
+      "title": "Fast Delivery",
+      "description": "Efficient logistics and strategic partnerships enable rapid, reliable shipping to global destinations with full traceability."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Premium Vietnamese Coffee Exporter | The Great Beans",
+      "description": "Leading Vietnamese coffee exporter specializing in premium Robusta and Arabica beans. Direct from farm to your roastery with quality guarantee."
+    },
+    "about": {
+      "title": "About Us - Premium Coffee Exporter",
+      "description": "Learn about The Great Beans, Vietnam's trusted coffee exporter with over 6 years of experience in delivering premium quality coffee worldwide."
+    },
+    "products": {
+      "title": "Premium Coffee Products | Vietnamese Coffee Beans",
+      "description": "Explore our range of premium Vietnamese coffee beans including Robusta, Arabica, and specialty grades for wholesale and export."
+    },
+    "contact": {
+      "title": "Contact Us - Coffee Export Inquiries",
+      "description": "Get in touch with The Great Beans for premium Vietnamese coffee export. Request quotes, samples, and discuss your coffee sourcing needs."
+    }
+  },
+  "categories": {
+    "all": "All Products",
+    "arabica": "Arabica",
+    "robusta": "Robusta",
+    "specialty": "Specialty",
+    "arabicaDescription": "Premium Arabica coffee beans with complex flavors and bright acidity, sourced from high-altitude regions of Vietnam.",
+    "robustaDescription": "Bold and full-bodied Robusta coffee beans with rich crema, perfect for espresso blends and commercial applications.",
+    "specialtyDescription": "Exceptional specialty grade coffee beans with unique processing methods and outstanding cupping scores for discerning coffee enthusiasts."
+  },
+  "filters": {
+    "all": "All Products",
+    "arabica": "Arabica",
+    "robusta": "Robusta",
+    "specialty": "Specialty"
+  },
+  "noProducts": "No products found for the selected category.",
+  "insights": {
+    "title": "Coffee Insights & Industry News",
+    "description": "Stay updated with the latest trends, market insights, and industry news from the Vietnamese coffee export sector.",
+    "featured": "Featured Article",
+    "readMore": "Read More",
+    "allArticles": "All Articles",
+    "categories": "Categories",
+    "tags": "Tags"
+  }
+}
